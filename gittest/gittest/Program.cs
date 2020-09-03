@@ -7,6 +7,7 @@ namespace gittest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello !");
+            Console.WriteLine("EZ GG");
             
         }
     }
