@@ -11,3 +11,16 @@ D:\Rider\С# Prjcts\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp
 D:\Rider\С# Prjcts\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp3.1\collegeMathPractice.dll
 D:\Rider\С# Prjcts\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp3.1\collegeMathPractice.pdb
 D:\Rider\С# Prjcts\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp3.1\collegeMathPractice.genruntimeconfig.cache
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\bin\Debug\netcoreapp3.1\collegeMathPractice.exe
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\bin\Debug\netcoreapp3.1\collegeMathPractice.deps.json
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\bin\Debug\netcoreapp3.1\collegeMathPractice.runtimeconfig.json
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\bin\Debug\netcoreapp3.1\collegeMathPractice.runtimeconfig.dev.json
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\bin\Debug\netcoreapp3.1\collegeMathPractice.dll
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\bin\Debug\netcoreapp3.1\collegeMathPractice.pdb
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp3.1\collegeMathPractice.csprojAssemblyReference.cache
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp3.1\collegeMathPractice.AssemblyInfoInputs.cache
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp3.1\collegeMathPractice.AssemblyInfo.cs
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp3.1\collegeMathPractice.csproj.CoreCompileInputs.cache
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp3.1\collegeMathPractice.dll
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp3.1\collegeMathPractice.pdb
+D:\Rider\С# Prjcts\MPT_CHU\collegeMathPractice\collegeMathPractice\obj\Debug\netcoreapp3.1\collegeMathPractice.genruntimeconfig.cache

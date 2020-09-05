@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rider\\С# Prjcts\\collegeMathPractice\\collegeMathPractice\\collegeMathPractice.csproj": {}
+    "D:\\Rider\\С# Prjcts\\MPT_CHU\\collegeMathPractice\\collegeMathPractice\\collegeMathPractice.csproj": {}
   },
   "projects": {
-    "D:\\Rider\\С# Prjcts\\collegeMathPractice\\collegeMathPractice\\collegeMathPractice.csproj": {
+    "D:\\Rider\\С# Prjcts\\MPT_CHU\\collegeMathPractice\\collegeMathPractice\\collegeMathPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rider\\С# Prjcts\\collegeMathPractice\\collegeMathPractice\\collegeMathPractice.csproj",
+        "projectUniqueName": "D:\\Rider\\С# Prjcts\\MPT_CHU\\collegeMathPractice\\collegeMathPractice\\collegeMathPractice.csproj",
         "projectName": "collegeMathPractice",
-        "projectPath": "D:\\Rider\\С# Prjcts\\collegeMathPractice\\collegeMathPractice\\collegeMathPractice.csproj",
+        "projectPath": "D:\\Rider\\С# Prjcts\\MPT_CHU\\collegeMathPractice\\collegeMathPractice\\collegeMathPractice.csproj",
         "packagesPath": "C:\\Users\\Tapok\\.nuget\\packages\\",
-        "outputPath": "D:\\Rider\\С# Prjcts\\collegeMathPractice\\collegeMathPractice\\obj\\",
+        "outputPath": "D:\\Rider\\С# Prjcts\\MPT_CHU\\collegeMathPractice\\collegeMathPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tapok\\AppData\\Roaming\\NuGet\\NuGet.Config"

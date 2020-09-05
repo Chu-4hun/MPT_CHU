@@ -11,8 +11,10 @@ namespace collegeMathPractice
             Double d = Convert.ToDouble(Console.ReadLine());
             Double a = Convert.ToDouble(Console.ReadLine());
 
-            Double res = ((Math.Atan(c / 4) - d * 62) / (a*a-1));
-            Console.WriteLine(res);
+            Double res1 = ((4*c+d-1)/(c-Math.Tan(a/2)));
+            Double res2 = ((Math.Log10(2 * c) + d - 52)/((a/4)+1));
+            Console.WriteLine(res1);
+            Console.WriteLine(res2);
             Console.ReadKey();
         }
     }
