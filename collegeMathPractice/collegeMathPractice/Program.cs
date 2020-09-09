@@ -1,5 +1,4 @@
 ﻿using System;
-using System.IO;
 
 namespace collegeMathPractice
 {
@@ -8,9 +7,9 @@ namespace collegeMathPractice
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Double c = Convert.ToDouble(Console.ReadLine());
-            Double d = Convert.ToDouble(Console.ReadLine());
             Double a = Convert.ToDouble(Console.ReadLine());
+            Double d = Convert.ToDouble(Console.ReadLine());
+            Double c = Convert.ToDouble(Console.ReadLine());
             
             //task1
                 Double res1 = ((2 * c + Math.Sqrt(23) / (a / 4) - 1));
